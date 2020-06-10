@@ -9,6 +9,6 @@ public class WebController {
     @RequestMapping("/hello")
     public String sayHello(){
         System.out.println("Saying hello world Spring Boot...");
-        return "templates/hello";
+        return "hello";
     }
 }
