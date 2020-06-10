@@ -1,2 +1,2 @@
 # HelloSpringBoot
-![Ekran Alıntısı](https://user-images.githubusercontent.com/35974781/84294207-862cb900-ab51-11ea-99f8-660649945b63.PNG)
+![Ekran Alıntısı1](https://user-images.githubusercontent.com/35974781/84294220-8927a980-ab51-11ea-8eb6-a4bb9e78bd76.PNG)
